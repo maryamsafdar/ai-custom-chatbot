@@ -20,4 +20,3 @@ model Note {
 
   @@map("notes")
 }
-//
